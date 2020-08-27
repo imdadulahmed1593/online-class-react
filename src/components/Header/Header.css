@@ -1,0 +1,19 @@
+.header img{
+    height:100px;
+}
+
+.header{
+    text-align: center;
+}
+.navbar{
+
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+color:#fff !important;
+}
+
+.nav-link{
+    color:#fff !important;
+}
